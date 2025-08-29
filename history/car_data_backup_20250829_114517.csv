@@ -1,0 +1,90 @@
+Make,Model,Year,BodyType,Cost,Length,CargoRear,CargoTotal,MpgCity,MpgHwy,MpgCombo,FuelType,Drive,Reliability
+Mazda,3 Hatchback,2017,Hatchback,"$19,095",175.6,20.2,47.1,29,41,33,Gasoline,FWD,Above Average (Based on various sources like Consumer Reports and J.D. Power)
+Honda,Fit,2015,Hatchback,"$15,650",160,16.6,52.7,33,41,36,Gasoline,FWD,Above Average (Based on various sources like J.D. Power and Consumer Reports - specific rating would vary)
+Volkswagen,Golf,2015,Hatchback,"$18,895",167.5,22.8,52.7,25,37,30,Gasoline,FWD,Average (Consumer Reports)
+Ford,Focus,2015,Hatchback,"$17,170",171.9,23.3,44.8,27,40,31,Gasoline,FWD,3.5/5
+Subaru,Impreza 5-Door,2015,Hatchback,"$18,395",173.6,22.5,52.4,27,36,31,Gasoline,AWD,Above Average (based on multiple sources like J.D. Power)
+Toyota,Corolla Hatchback,2019,Hatchback,"$19,990",172.0,18.0,23.0,32,42,36,Gasoline,FWD,Above Average. (Based on J.D. Power and Consumer Reports data from similar model years and Toyota's reputation)
+Kia,Forte5,2015,Hatchback,"$17,800",171.3,23.2,56.4,26,39,31,Gasoline,FWD,"Average.  Consumer Reports rated the 2015 Forte5 as ""Average"" reliability. (Source: Consumer Reports)"
+Chevrolet,Sonic,2015,Hatchback,"$14,170 - $14,810",173.1,14.9,26.5,26,35,29,Gasoline,FWD,Average (based on reports from RepairPal)
+Mini,Cooper Hardtop 2-Door,2015,Hatchback,"$21,700",151.1,8.7,34,28,37,31,Gasoline,FWD,"Average, various reports. (Consumer Reports typically rates Mini Cooper reliability as average, but reliability can vary by model year. Data collected between 2015-2020 years.)"
+Kia,Rio,2015,Hatchback,"$14,000",172.6,13.7,N/A,27,37,31,Gasoline,FWD,"Average (Based on historical data, ratings vary by source)"
+Nissan,Leaf,2015,Hatchback,"$29,010",175,24,30,126,101,114,Electric,FWD,3/5
+Lexus,CT Hybrid,2015,Hatchback,"$32,050",171.3,14.3,34.8,43,40,42,Hybrid,FWD,"Above Average (Based on JD Power and Consumer Reports - varies year to year, average across the model years)"
+Volkswagen,GTI,2015,Hatchback,"$24,395",168,22.8,52.7,25,34,29,Gasoline,FWD,3/5
+Toyota,Prius,2015,Hatchback,"$24,200",179.3,21.6,39.6,51,48,50,Hybrid,FWD,Above Average (Based on J.D. Power and Consumer Reports)
+Chevrolet,Bolt EV,2020,Hatchback,"$36,620",163.2,16.9,56.6,124,101,115,Electric,FWD,Above average based on J.D. Power scores for 2020.
+Ford,Fiesta,2015,Hatchback,"$14,095",160.1,14.9,25.4,28,36,31,Gasoline,FWD,"Average (Based on various sources, reliability can vary depending on specific model year and engine)"
+Audi,A3 Sportback,2015,Hatchback,"$30,900",175.4,12.3,39.8,24,33,27,Gasoline,FWD,Above Average (Source: JD Power)
+Fiat,500,2015,Hatchback,"$16,495",139.6,9.5,26.3,31,40,34,Gasoline,FWD,Average
+Toyota,Yaris,2015,Hatchback,"$14,845",155.5,15.6,25.7,30,37,33,Gasoline,FWD,Above Average (Generally considered reliable based on various reliability reports)
+Toyota,Toyota Corolla iM,2016,Hatchback,"$19,250",170.5,20.8,46.9,29,37,32,Gasoline,FWD,"Above Average (Based on general Toyota reputation and early reliability data, sources like Consumer Reports)"
+Mazda,2,2015,Hatchback,N/A,155.7,9.8,27.8,29,40,33,Gasoline,FWD,"Generally good, but specific ratings vary by source."
+Nissan,Versa Note,2015,Hatchback,"$14,800",163.0,18.8,38.3,31,40,35,Gasoline,FWD,"Above Average (Based on various sources like J.D. Power, Consumer Reports, and reliability ratings. Exact rating may vary.)"
+Honda,Civic Hatchback,2017,Hatchback,"$19,700",177.9,25.7,46.2,31,40,34,Gasoline,FWD,4/5
+Mitsubishi,Mirage,2015,Hatchback,"$12,995 - $14,395",148.8,17.2,47,37,44,40,Gasoline,FWD,3/5
+Chevrolet,Cruze Hatchback,2017,Hatchback,"$22,190",175.3,22.7,47.2,29,39,33,Gasoline,FWD,"Above Average (based on multiple sources, specifics vary)"
+Audi,A6 Allroad,2015,Wagon,"$61,300",193.9,27.0,56.5,19,26,22,Gasoline,AWD,3/5
+Volvo,V60,2015,Wagon,"$35,950",182.5,29.7,43.8,25,37,29,Gasoline,FWD,"Average (Based on historical data; reliability ratings vary by source. Generally, Volvo's have been in the average range)."
+Volvo,V90,[value],[Value],[value],[value],[value],[value],[value],[value],[value],[Value],[value],[value]
+Volvo,V90 Cross Country,2017,SUV,"$48,900",194.4,19.8,53.9,22,30,25,Gasoline,AWD,Average (based on J.D. Power and Consumer Reports data)
+Audi,A4 Allroad,2017,SUV,"$44,500",187.6,24.2,58.5,23,30,26,Gasoline,AWD,"Above Average (based on various sources, including Consumer Reports - specific ratings vary by organization)"
+Porsche,Panamera Sport Turismo,2018,Hatchback,"$86,600",198.8,18.3,49,21,28,24,Gasoline,AWD,3.5/5
+Volkswagen,Golf SportWagen,2015,Wagon,"$21,995",178.8,30.4,66.5,25,36,29,Gasoline,FWD,Average (Source: J.D. Power - varies year to year)
+Audi,Allroad,2017,Wagon,"$43,950",185.7,24.2,58.5,22,30,25,Gasoline,AWD,4.0/5
+Honda,Crosstour,2015,Hatchback,"$27,495 - $33,395",196.9,25.7,51.3,22,31,25,Gasoline,FWD,Above Average. Based on consumer reports.
+Ford,C-Max Energi,2015,Hatchback,"$27,195",172.5,19.2,42.8,44,41,43,Hybrid,FWD,3/5
+FIAT,500L,2015,Hatchback,"$19,100",167.1,22.4,68.0,24,33,27,Gasoline,FWD,2/5
+Volvo,XC70,2016,SUV,"$37,000",189.1,33.3,72.1,20,28,23,Gasoline,FWD,Above Average** (Based on generally available consumer reports and reviews. Reliability ratings can vary.)
+Jaguar,XF Sportbrake,2018,Wagon,"$70,465",195.9,31.7,69.7,25,30,27,Gasoline,AWD,2/5
+MINI,Clubman,2016,Hatchback,**,168.3,17.5,47.9,25,34,28,Gasoline,FWD,Above Average** (Source: Consumer Reports)
+Toyota,Prius v,2015,Hatchback,"$26,675",182.3,34.3,67.3,44,40,42,Hybrid,FWD,Above Average (Source: J.D. Power - specific ratings vary each year but Prius models generally score well)
+Subaru,Forester,2015,SUV,"$22,395",180.9,34.2,74.7,24,32,27,Gasoline,AWD,Generally considered to have above-average reliability.
+Subaru,Outback,2015,SUV,"$24,895",189.6,35.5,73.3,25,33,28,Gasoline,AWD,Above Average
+Honda,Pilot,2016,SUV,"$30,145",194.5,16.5,83.9,19,27,22,Gasoline,FWD,4/5
+Toyota,Highlander,2015,SUV,"$29,500",191.1,13.8,83.7,19,25,21,Gasoline,FWD,"Very Good (Generally considered reliable. Ratings vary, but typically high. Check specific sources like J.D. Power for the most current ratings.)"
+Jeep,Grand Cherokee,2015,SUV,"$30,000",189.8,36.3,68.3,17,25,20,Gasoline,FWD,"Average (Consumer Reports rating - varies year to year, check latest data)"
+Volvo,XC40,2019,SUV,"$33,700",174.2,20.7,47.2,23,31,26,Gasoline,FWD,3/5
+Audi,Q5,2015,SUV,"$40,900",182.6,29.1,58.5,20,28,23,Gasoline,AWD,"Above Average, ratings can vary."
+Infiniti,QX60,2015,SUV,"$42,400",196.3,15.8,76.5,19,26,22,Gasoline,FWD,Average (Based on J.D. Power - specific scores may vary)
+Lincoln,MKC,2015,SUV,"$33,100",171.9,25.2,53.1,20,29,23,Gasoline,FWD,"Average. Some sources indicate issues with infotainment and electrical systems, but overall scores vary.  (Reliability data is often based on long-term consumer reports from sources like J.D. Power or Consumer Reports. This information can be difficult to pinpoint specifically for the base trim, and these sources may not break it down that granularly. I'm making an educated guess here.)"
+Jeep,Wrangler,2015,SUV,"$23,895 - $27,695",166.9,12.8,55.0,17,21,18,Gasoline,4WD,Average. (Consumer Reports data suggest average reliability ratings)
+Toyota,4Runner,2015,SUV,"$33,010",189.9,47.2,89.7,17,21,18,Gasoline,RWD,Above Average (Consumer Reports); Generally considered very reliable.
+Chevrolet,Tahoe,[value],[Value],[value],[value],[value],[value],[value],[value],[value],[Value],[value],[value]
+Ford,Expedition,2015,SUV,"$44,995",206.0,18.6,108.3,15,21,17,Gasoline,RWD,** Reliability ratings vary between sources and can change over time. I will provide a general assessment based on available data.
+GMC,Yukon,2015,SUV,"$47,775 - $49,870",210.0,15.3,94.7,16,23,19,Gasoline,RWD,3.5/5
+Dodge,Durango,2015,SUV,"$29,995",192.4,17.2,84.5,18,25,21,Gasoline,FWD,Average (based on reliability ratings - actual ratings vary)
+Nissan,Pathfinder,2015,SUV,"$29,510",196.2,16.0,79.8,20,26,22,Gasoline,FWD,3.5/5
+Mitsubishi,Outlander,2015,SUV,"$22,995",184.8,10.3,63.3,25,31,27,Gasoline,FWD,Average; Consumer Reports rated the 2015 model as having average reliability.
+Jeep,Compass,2015,SUV,"$19,295",174.4,22.7,53.6,22,28,24,Gasoline,FWD,3/5
+Honda,Ridgeline,2017,**,"$29,475",210.0,33.9,N/A,19,26,22,Gasoline,FWD,4/5
+Toyota,Sequoia,2015,SUV,"$45,095",205.1,18.9,120.1,13,17,15,Gasoline,RWD,Above Average
+Ford,Explorer,2015,SUV,"$30,700",197.6,21,81.7,17,24,20,Gasoline,FWD,"Average (based on multiple sources, varied year-to-year)"
+Chevrolet,Suburban,2015,SUV,"$47,900",224.4,38.9,121.7,16,23,19,Gasoline,RWD,3/5
+Lincoln,Navigator,2015,SUV,"$61,480",207.4,18.1,103.3,15,20,17,Gasoline,RWD,"Average (J.D. Power, Consumer Reports)"
+Lexus,GX,2015,SUV,"$49,085",192.1,46.7,64.7,15,20,17,Gasoline,4WD,"Above Average (based on various reliability ratings; e.g., J.D. Power)"
+Infiniti,QX80,2015,SUV,MSRP**,208.9,16.6,95.1,14,20,16,Gasoline,RWD,Average**
+Mazda,CX-5,2015,SUV,"$21,395",179.3,34.1,64.8,26,33,29,Gasoline,FWD,"Average, some reported issues with infotainment. Generally considered reliable for the class."
+Honda,CR-V,2015,SUV,"$23,320",179.3,37.2,70.9,27,34,29,Gasoline,FWD,"Above Average. Consumer Reports rated the 2015 CR-V as ""Very Reliable."" (Based on general consensus and prior years of data)"
+Kia,Telluride,2020,SUV,"$31,890",196.9,21,87,20,26,23,Gasoline,FWD,3.5/5
+Mazda,CX-30,2020,SUV,"$21,900",173.0,20.2,47.1,25,33,28,Gasoline,FWD,4/5
+Kia,Soul,2015,Hatchback,"$15,400 - $16,590",163,24.2,61.3,24,30,27,Gasoline,FWD,Above Average/Good. (Generally considered reliable by sources like J.D. Power and Consumer Reports. Specific ratings vary year to year).
+Kia,Sportage,2015,SUV,"$21,900",173.2,26.1,54.6,21,28,24,Gasoline,FWD,"Average (based on various sources; Consumer Reports and J.D. Power ratings around average for the class, but ratings can vary year to year)"
+Toyota,RAV4,2015,SUV,"$23,680",181.1,38.4,73.4,24,31,26,Gasoline,FWD,Generally considered very reliable; High marks from J.D. Power and Consumer Reports.
+Nissan,Rogue,2015,SUV,"$23,040",182.3,39.3,70.0,26,33,29,Gasoline,FWD,"Above average, with minor issues reported. (Varies depending on the source, but generally considered reliable)"
+Ford,Edge,2015,SUV,"$28,995",188,39.2,73.4,21,30,24,Gasoline,FWD,3/5
+GMC,Terrain,[value],[Value],[value],[value],[value],[value],[value],[value],[value],[Value],[value],[value]
+MINI,Countryman,2015,SUV,"$22,950",161.8,17.6,42.2,27,34,30,Gasoline,FWD,3/5
+Subaru,Crosstrek,2015,SUV,"$21,995",175.6,22.3,51.9,25,33,28,Gasoline,AWD,Above Average
+Chevrolet,Equinox,2015,SUV,"$22,960",187.8,31.4,63.7,21,31,25,Gasoline,FWD,3.5/5
+Volkswagen,Tiguan,2015,SUV,"$23,500",174.3,23.8,56.1,21,26,23,Gasoline,FWD,3/5
+Ford,Escape,2015,SUV,"$23,100",178,34.3,67.9,22,31,25,Gasoline,FWD,3/5
+Jeep,Cherokee,2015,SUV,"$23,095",172.4,24.8,54.9,22,31,25,Gasoline,FWD,"Average. Consumer Reports rated the 2015 Cherokee as ""Average"" for reliability. J.D. Power's ratings fluctuated, often showing average scores."
+Nissan,Murano,2015,SUV,"$29,560",192.8,39.6,70.2,21,28,24,Gasoline,FWD,"Average (Consumer Reports, J.D. Power)"
+Chevrolet,Traverse,2015,SUV,"$31,000",205,24.4,116.3,17,24,20,Gasoline,FWD,"Average, with some common issues reported (e.g., timing chain issues, some transmission concerns). Reliability data varies slightly based on different sources."
+Lexus,NX,2015,SUV,"$34,965",182.3,17.7,54.6,22,28,25,Gasoline,FWD,"Above Average (Based on historical data, and may vary depending on the specific source used)"
+Acura,RDX,2015,SUV,"$35,670",183.5,26.1,61.3,20,28,23,Gasoline,FWD,Above Average (Based on sources like J.D. Power and Consumer Reports - check latest ratings)
+Audi,Q3,2015,SUV,"$33,400",172.6,16.7,48.2,20,29,23,Gasoline,FWD,4/5
+Infiniti,QX50,2015,SUV,"$34,450",186.8,24.8,50.1,20,27,22,Gasoline,FWD,Above Average
+Volvo,XC60,2015,SUV,"$36,625",182.7,30.8,67.4,24,31,27,Gasoline,FWD,Average (Consumer Reports rated it as average)
+Mazda,CX-9,2016,SUV,"$31,520",193.4,14.4,71.2,22,28,25,Gasoline,FWD,Above Average (Based on J.D. Power ratings for similar Mazda models. Specific CX-9 ratings were not consistently available during this period but Mazda generally had a good reputation.)
